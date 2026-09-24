@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
 1790242027 source:d:\codeblock assignment\learn2\calculator\main.c
 
-1790257491 source:d:\codeblock assignment\learn2\calculator\calculator.c
+1790262558 source:d:\codeblock assignment\learn2\calculator\calculator.c
 	<stdio.h>
+	<math.h>
 	<stdlib.h>
 
